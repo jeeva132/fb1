@@ -1,0 +1,27 @@
+.contact-list_container {
+  padding-top: 12px;
+  margin-right: 3px;
+}
+
+.contact-list_container .icons-wrapper {
+  display: flex;
+  gap: 20px;
+}
+
+.contact-list_container .icons-wrapper svg {
+  cursor: pointer;
+}
+.contact-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.contact-txt {
+  color: #b0b3b8;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.friend-list_container {
+  padding-top: 16px;
+}
